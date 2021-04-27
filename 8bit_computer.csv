@@ -1,0 +1,106 @@
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+
+# Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# File: C:\Users\wowar\Desktop\All Work\Code Resources\Workspaces\FPGA Quartus\VHDL\EELE367\FinalProject\quartus\8bit_computer.csv
+# Generated on: Tue Apr 27 15:42:43 2021
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+Clock,Unknown,PIN_P11,3,B3_N0,3.3-V LVTTL,,,,,
+Clock_50,Unknown,PIN_P11,3,B3_N0,3.3-V LVTTL,,,,,
+D,Unknown,,,,3.3-V LVTTL,,,,,
+GPIO[0],Unknown,PIN_V10,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[1],Unknown,PIN_W10,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[2],Unknown,PIN_V9,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[3],Unknown,PIN_W9,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[4],Unknown,PIN_V8,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[5],Unknown,PIN_W8,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[6],Unknown,PIN_V7,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[7],Unknown,PIN_W7,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[8],Unknown,PIN_W6,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[9],Unknown,PIN_V5,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[10],Unknown,PIN_W5,3,B3_N0,3.3-V LVTTL,,,,,
+GPIO[11],Unknown,PIN_AA15,4,B4_N0,3.3-V LVTTL,,,,,
+GPIO[12],Unknown,PIN_AA14,4,B4_N0,3.3-V LVTTL,,,,,
+GPIO[13],Unknown,PIN_W13,4,B4_N0,3.3-V LVTTL,,,,,
+GPIO[14],Unknown,PIN_W12,4,B4_N0,3.3-V LVTTL,,,,,
+GPIO[15],Unknown,PIN_AB13,4,B4_N0,3.3-V LVTTL,,,,,
+HEX0[0],Unknown,PIN_C14,7,B7_N0,3.3-V LVTTL,,,,,
+HEX0[1],Unknown,PIN_E15,7,B7_N0,3.3-V LVTTL,,,,,
+HEX0[2],Unknown,PIN_C15,7,B7_N0,3.3-V LVTTL,,,,,
+HEX0[3],Unknown,PIN_C16,7,B7_N0,3.3-V LVTTL,,,,,
+HEX0[4],Unknown,PIN_E16,7,B7_N0,3.3-V LVTTL,,,,,
+HEX0[5],Unknown,PIN_D17,7,B7_N0,3.3-V LVTTL,,,,,
+HEX0[6],Unknown,PIN_C17,7,B7_N0,3.3-V LVTTL,,,,,
+HEX1[0],Unknown,PIN_C18,7,B7_N0,3.3-V LVTTL,,,,,
+HEX1[1],Unknown,PIN_D18,6,B6_N0,3.3-V LVTTL,,,,,
+HEX1[2],Unknown,PIN_E18,6,B6_N0,3.3-V LVTTL,,,,,
+HEX1[3],Unknown,PIN_B16,7,B7_N0,3.3-V LVTTL,,,,,
+HEX1[4],Unknown,PIN_A17,7,B7_N0,3.3-V LVTTL,,,,,
+HEX1[5],Unknown,PIN_A18,7,B7_N0,3.3-V LVTTL,,,,,
+HEX1[6],Unknown,PIN_B17,7,B7_N0,3.3-V LVTTL,,,,,
+HEX2[0],Unknown,PIN_B20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX2[1],Unknown,PIN_A20,7,B7_N0,3.3-V LVTTL,,,,,
+HEX2[2],Unknown,PIN_B19,7,B7_N0,3.3-V LVTTL,,,,,
+HEX2[3],Unknown,PIN_A21,6,B6_N0,3.3-V LVTTL,,,,,
+HEX2[4],Unknown,PIN_B21,6,B6_N0,3.3-V LVTTL,,,,,
+HEX2[5],Unknown,PIN_C22,6,B6_N0,3.3-V LVTTL,,,,,
+HEX2[6],Unknown,PIN_B22,6,B6_N0,3.3-V LVTTL,,,,,
+HEX3[0],Unknown,PIN_F21,6,B6_N0,3.3-V LVTTL,,,,,
+HEX3[1],Unknown,PIN_E22,6,B6_N0,3.3-V LVTTL,,,,,
+HEX3[2],Unknown,PIN_E21,6,B6_N0,3.3-V LVTTL,,,,,
+HEX3[3],Unknown,PIN_C19,7,B7_N0,3.3-V LVTTL,,,,,
+HEX3[4],Unknown,PIN_C20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX3[5],Unknown,PIN_D19,6,B6_N0,3.3-V LVTTL,,,,,
+HEX3[6],Unknown,PIN_E17,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[0],Unknown,PIN_F18,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[1],Unknown,PIN_E20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[2],Unknown,PIN_E19,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[3],Unknown,PIN_J18,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[4],Unknown,PIN_H19,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[5],Unknown,PIN_F19,6,B6_N0,3.3-V LVTTL,,,,,
+HEX4[6],Unknown,PIN_F20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[0],Unknown,PIN_J20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[1],Unknown,PIN_K20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[2],Unknown,PIN_L18,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[3],Unknown,PIN_N18,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[4],Unknown,PIN_M20,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[5],Unknown,PIN_N19,6,B6_N0,3.3-V LVTTL,,,,,
+HEX5[6],Unknown,PIN_N20,6,B6_N0,3.3-V LVTTL,,,,,
+LEDR[0],Unknown,PIN_A8,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[1],Unknown,PIN_A9,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[2],Unknown,PIN_A10,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[3],Unknown,PIN_B10,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[4],Unknown,PIN_D13,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[5],Unknown,PIN_C13,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[6],Unknown,PIN_E14,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[7],Unknown,PIN_D14,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[8],Unknown,PIN_A11,7,B7_N0,3.3-V LVTTL,,,,,
+LEDR[9],Unknown,PIN_B11,7,B7_N0,3.3-V LVTTL,,,,,
+Q,Unknown,,,,3.3-V LVTTL,,,,,
+Qn,Unknown,,,,3.3-V LVTTL,,,,,
+Reset,Unknown,PIN_B8,7,B7_N0,3.3-V LVTTL,,,,,
+SW[0],Unknown,PIN_C10,7,B7_N0,3.3-V LVTTL,,,,,
+SW[1],Unknown,PIN_C11,7,B7_N0,3.3-V LVTTL,,,,,
+SW[2],Unknown,PIN_D12,7,B7_N0,3.3-V LVTTL,,,,,
+SW[3],Unknown,PIN_C12,7,B7_N0,3.3-V LVTTL,,,,,
+SW[4],Unknown,PIN_A12,7,B7_N0,3.3-V LVTTL,,,,,
+SW[5],Unknown,PIN_B12,7,B7_N0,3.3-V LVTTL,,,,,
+SW[6],Unknown,PIN_A13,7,B7_N0,3.3-V LVTTL,,,,,
+SW[7],Unknown,PIN_A14,7,B7_N0,3.3-V LVTTL,,,,,
+SW[8],Unknown,PIN_B14,7,B7_N0,3.3-V LVTTL,,,,,
+SW[9],Unknown,PIN_F15,7,B7_N0,3.3-V LVTTL,,,,,
